@@ -1,0 +1,4 @@
+include ':customer'
+include ':core'
+include ':app'
+rootProject.name = "Poc Dark Theme"
